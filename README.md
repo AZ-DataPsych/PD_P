@@ -1,2 +1,3 @@
 # PD_P
 Behavioral analysis of Parkinson's Disease Related animal models
+This project trys to model a ML to predict if the experimental animal is showing psychosis. We used behavioral scoring done by blind experimenters. About 10 different features included. 
